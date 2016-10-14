@@ -1,0 +1,18 @@
+Idea of this class is to offer several screens to draw through
+
+Stop updating on the current map
+
+Have a pause boolean that pauses updating on the background and when paused, it will bring up this screen.
+
+Screens
+Inventory
+When selected, reset all of players sprites since they are static.
+
+Quests
+When selected, have a read out of all quests completed, when highlighted over, do like the menu screen.
+When highlighted over and pressed enter, a box will appear reading out the next set of directions to do.
+
+Stats
+Have each mana, strength, defense, health, and gold displayed here. Have a neat health bar.
+
+HAVE HUD IN THIS ALSO TO STOP UPDATING AND TO STOP DRAWING!
